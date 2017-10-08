@@ -1,4 +1,4 @@
-# My Application
+# LoopBack Rest API 
 
 Install
 
