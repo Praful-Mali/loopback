@@ -25,10 +25,10 @@ If this fails, try running the command yourself.
 
 Step-3
 
-Create models
+Create models \n
 $ lb model
 
-The generator guides you through creating your model. 
+The generator guides you through creating your model.
 Enter the values highlighted in green. 
 To accept the default, just press Enter.
 [?] Enter the model name: register
